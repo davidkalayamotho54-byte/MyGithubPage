@@ -17,7 +17,7 @@ header {
 
 background-colour: #4CAF50;
 
-color: white;
+colour: white;
 
 padding: 20px;
 
@@ -35,7 +35,7 @@ margin: 0;
 
 nav a {
 
-color: white;
+colour: white;
 
 text-decoration: none;
 
@@ -70,11 +70,11 @@ display: block;
 margin: 20px 0;
 
 }
-ooter {
+footer {
 
 background-colour: #333;
 
-color: white;
+colour: white;
 
 text-align: center;
 
@@ -96,7 +96,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+colour: #4CAF50;
 
 text-decoration: none;
 
@@ -117,7 +117,7 @@ border-radius: 10px;
 }
 main a[href^="mailto:"] {
 
-color: #ff5722;
+colour: #ff5722;
 
 font-weight: bold;
 
